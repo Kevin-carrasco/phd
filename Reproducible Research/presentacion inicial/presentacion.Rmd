@@ -1,0 +1,153 @@
+---
+title: "GESIS presentatiton"
+author: "Kevin Carrasco Quintanilla"
+institute: ".small[**Universidad de Chile**]"
+date: ".small[Jueves 26 de octubre de 2023]"
+output:
+  xaringan::moon_reader:
+    css: ["xaringan-themer.css"]
+    seal: false
+    nature:
+      highlightStyle: solarized-dark
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "xaringan_custom/macros.js"
+      ratio: '16:9'
+---
+class: middle title-slide
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "red", location = c("top"))
+```
+
+.pull-left-narrow[
+
+.center[
+<br>
+
+![:scale 85%](images/chile.png)
+
+![:scale 75%](images/logocoes.png)
+
+]
+]
+
+.pull-right-wide[
+<br>
+
+.content-box-purple[
+.center[
+
+## Kevin Carrasco
+
+#### Sociologist and master in social sciences
+
+----
+.center[
+#### Universidad de Chile
+]
+]
+]
+
+.pull-left[
+![:scale 100%](images/facso.png)
+]
+
+.pull-right[
+![:scale 90%](images/mcs.png)
+]
+]
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+# Academic and professional journey
+
+.pull-left[
+### Research assistant at Center for social conflict and cohesion studies (COES)
+
+.center[
+![:scale 50%](images/logocoes.png)
+]
+![:scale 45%](images/lisa.png)
+![:scale 45%](images/ocs.png)
+]
+
+.pull-right[
+### This position includes working in the open social science laboratory and the social cohesion observatory
+
+### Interdisciplinary work with protocols and workflows that facilitate collaborative work
+
+]
+
+---
+# Academic and professional journey
+
+.pull-left[
+### Research assistant in two grant projects "Meritocracy at school" and "The work process in the *gig* economy"
+![:scale 40%](images/edumer.png)
+![:scale 40%](images/gig.png)
+]
+
+.pull-right[
+
+### These positions are related to research, mainly with the design of questionnaires and application of surveys. Literature review and paper writing.
+
+### Different tools like R, Github, Zotero, Quarto and Shiny
+
+]
+---
+
+# Research outcomes
+
+- Open Science Survey with FormR
+
+.center[
+![:scale 80%](images/lisa-survey.png)
+]
+
+---
+
+# Research outcomes
+
+- Master's thesis pre-registered at OSF
+
+.pull-left[
+
+* Available at [https://kevin-carrasco.github.io/aceptar-diversidad/](https://kevin-carrasco.github.io/aceptar-diversidad/)
+
+![:scale 100%](images/osf.png)
+]
+
+.pull-right[
+![:scale 80%](images/thesis.png)
+]
+
+---
+
+# Research outcomes
+
+- Gender gaps in the perception of salary gaps with ISSP
+
+.center[
+![:scale 43%](images/issp.png)
+]
+
+---
+
+# Future research agenda
+
+* Open Science
+
+* The algorithmic society
+
+* Inequalities and social justice
+
+* Survey research methods.
+
+---
+
+## Thanks for listening to me!
+
