@@ -115,8 +115,12 @@ class: animated, fadeIn
 
 - Measurement and Indicators of Social Cohesion
 
-.center[
-![:scale 60%](images/plot_horizontal.png)
+.pull-left[
+![:scale 100%](images/plot_horizontal.png)
+]
+
+.pull-right[
+![:scale 100%](images/plot_vertical.png)
 ]
 
 ---
