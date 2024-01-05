@@ -1,0 +1,27 @@
+---
+author: Kevin Carrasco
+return-address: 
+  - Santiago, Chile
+  - Kevin.carrasco@ug.uchile.cl
+address:
+  - GESIS - Leibniz Institute for Social Sciences
+  - Unter Sachsenhausen 6-8
+  - 50667 Cologne
+  - Germany
+  
+subject: Application for PhD Candidate in Reproducible Research (Gesis)
+opening: Dear Dr. Armin Bleier,
+closing: Best regards,
+signature: Kevin Carrasco
+
+output: komaletter::komaletter
+---
+
+I am writing to express my interest in the position of Doctoral Researcher in Reproducible Research at GESIS. I have been looking for PhD opportunities during the last months and I was very surprised when I saw this announcement (on Twitter), as my academic background in sociology and my research experience in open science and reproducibility during the last years are closely aligned with the research focus of this position. Besides, I have been following the work of GESIS for a while and I am highly motivated and enthusiastic about the opportunity to contribute to its outstanding work in the field of social science research and its strong commitment to advancing open science practices. 
+
+In 2017 I began to study Sociology at the University of Chile, the oldest and most prestigious public university in the country. In this context, in 2020 I took an elective on Open Science in Social Sciences taught by Dr. Juan Carlos Castillo (https://jc-castillo.com/) which was my first approach to open science and reproducibility issues. As a sociologist with a master's degree in Social Sciences, I have developed a solid foundation in empirical research methods. Much of my academic journey has involved extensive work with the R programming language for data analysis and visualization. This experience has not only equipped me with advanced technical skills but has also instilled in me a deep appreciation for open science principles, where I value transparency, reproducibility, and open access in my research. For example, I did my master’s thesis with Rmarkdown/bookdown and it is all (text, data and code) publicly available on my github (https://github.com/Kevin-carrasco/aceptar-diversidad). Furthermore, my participation this year in the Summer Institute in Computational Social Sciences (SICSS - https://sicss.io/2023/chile/) in Chile has further honed my skills and knowledge in applying computational methods to social research, making me well-prepared for the challenges of this position.
+
+In 2020 I started working as a research assistant in Fondecyt, which are grant projects for scientific research and development from the National Research and Development Agency (ANID - https://anid.cl/). During this time I have been able to implement protocols and workflows by connecting R, Rmarkdown, Quarto, Git, Github, Zotero, and other open-source tools that facilitate collaborative work and transparency in social science research. Similarly, I have been able to develop visualization and results communication tools using dynamic documents (RMarkdown/Quarto/Blogdown) and interactive platforms such as Shiny. Additionally, during the last year I started working as a research assistant at the Center for the Study of Conflict and Social Cohesion (COES - https://coes.cl/), which is a research center financed by the Research fund in Priority Areas (FONDAP-ANID). In this center I have actively participated in the Open Social Research Laboratory (https://lisa-coes.com/), where I had the privilege of working on projects that align directly with the objectives of the Doctoral Researcher position at GESIS. My responsibilities included collaborating with a multidisciplinary team to develop and implement best practices in Open Science, which were divided into four components: 1) Reproducible Research (specifically IPO protocol: https://lisa-coes.com/ipo-repro/); 2) Transparent Design; 3) Open Access; and 4) Open Data. In this space, I actively contributed to projects aimed at improving the transparency and replicability of research findings in the social sciences while promoting the dissemination of open data and scientific publications. Besides, in March of this year I was in charge of managing the visit of Nate Breznau, who gave a talk on reproducibility at the Faculty of Social Sciences at the University of Chile. I am currently coordinating a survey on open science knowledge, tools and practices among social science researchers in Chile with the Open Social research Laboratory. Open science is an emerging topic in Chile and researching it specifically in the field of social sciences opens up different research possibilities that I would like to investigate in the future, especially the usability of open science in Chile and in general. These experiences have not only deepened my understanding of the importance of rigorous research methodologies but have also significantly enhanced my ability to communicate and collaborate effectively with interdisciplinary teams.
+
+I would appreciate the opportunity to discuss how my skills and background align with GESIS' objectives and how I can contribute to the ongoing research initiatives at your prestigious institution. Although I am currently working on several projects, these are solvable and in fact it is expected and motivated to study for a PhD. Likewise, I am available to move to Germany after prior coordination of time and I am willing to learn German (I have good English speaking and writing skills, but I have also been taking an in-depth course for six months)
+
