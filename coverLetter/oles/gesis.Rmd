@@ -1,0 +1,29 @@
+---
+author: Kevin Carrasco
+return-address: 
+  - Santiago, Chile
+  - Kevin.carrasco@ug.uchile.cl
+address:
+  - Universidad Diego Portales
+  - Santiago
+  - Chile
+  
+subject: Convocatoria Asistente de Investigación Proyecto ANID exploración 'Legitimidad de las políticas en Chile'.
+opening: Estimad-s Mónica Gerber y Claudio Fuentes
+closing: Saludos cordiales,
+signature: Kevin Carrasco
+
+output: komaletter::komaletter
+---
+
+I am writing to express my interest in the position of Associate Researcher in the department of Survey Data Curation at GESIS. I have been looking for PhD and job opportunities for the past few months and I was very surprised when I saw this announcement (In the GESIS Jobalert service), as my academic background in sociology and survey research, as well as  my research experience with quantitative methods and open science over the last few years are closely aligned with the research focus of this position. Besides, I have been following the work of GESIS for a while and I am highly motivated and enthusiastic about the opportunity to contribute to its outstanding work in the field of survey research and its strong commitment to advancing open science practices. 
+
+In 2017 I began to study Sociology at the University of Chile, the oldest and most prestigious public university in the country. In this context, I took several courses on statistical analysis with R, and some elective courses on multilevel analysis and open science, so I have been working continuously with R since 2018. As a sociologist with a master's degree in Social Sciences, I have developed a solid foundation in empirical research methods. Much of my academic career has involved extensive work with the R programming language for survey analysis and data visualization. For example, I have contributed to the development of research on operationalization and measurement of social cohesion with a panel survey from Chile (https://coes.cl/encuesta-panel/) and in a study on Perceived salary and gender gaps in survey research using ISSP data (soon to be published). This research has also been recently presented at ISA-Melbourne and ESRA-Milan, respectively (i.e. https://justicia-distributiva.github.io/brechas-genero/presentations/ESRA2023/ESRA2023.html).
+
+During the last years I have worked as a research assistant in Fondecyt, which are grant projects for scientific research and development from the National Research and Development Agency (ANID - https://anid.cl/) and as a research assistant at the Center for the Study of Conflict and Social Cohesion (COES - https://coes.cl/), which is a research center financed by the Research fund in Priority Areas (FONDAP-ANID). During this time I have participated in the design, programming and application of several surveys, using software such as Qualtrics and FormR. These surveys have been applied to the school population, with topics on citizenship and meritocracy, and I am currently coordinating a survey on open science knowledge, tools and practices among social science researchers in Chile with the Open Social research Laboratory (https://lisa-coes.com/). Furthermore, I have been able to implement protocols and workflows by connecting R, Rmarkdown, Quarto, Git, Github, Zotero, and other open-source tools that facilitate collaborative work and transparency in social science research. Similarly, I have been able to develop visualization and results communication tools using dynamic documents (RMarkdown/Quarto/Blogdown) and interactive platforms such as Shiny. 
+
+Additionally, I have participated as an assistant professor in the sociology degree and in the master's degree in social sciences, both at the University of Chile, in courses on quantitative methods and multivariate and multilevel statistics. All of these courses are focused on using and learning R for survey data analysis. An example of these courses is available at the following link: https://metod1-mcs.netlify.app/
+
+I would appreciate the opportunity to discuss how my skills and background align with GESIS' objectives and how I can contribute to the ongoing research initiatives at your prestigious institution. Although I am currently working on several projects, these are solvable and in fact it is expected and motivated to study for a PhD. Likewise, I am available to move to Germany and start in March, and I am also willing to learn German (I have good speaking and writing skills in English, but I have also taken an in-depth course over the last few months).
+
+
