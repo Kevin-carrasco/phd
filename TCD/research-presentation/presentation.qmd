@@ -1,6 +1,8 @@
 ---
 title: "TCD presentation"
 editor: source
+bibliography: "Redistributive-fairness.bib"
+csl: "apa6.csl"
 knitr:
   opts_chunk:
     collapse: true
@@ -26,6 +28,10 @@ format:
     keep-tex: true  # Debug LaTeX output if needed
 ---
 
+# Perceived Redistributive Justice: The role of Inequality and Social Mobility Beliefs
+
+International comparative analysis using *Risk that matter* Survey (2022)
+
 ::: columns
 ::: {.column width="25%"}
 
@@ -34,29 +40,46 @@ format:
 ![](images/facso.png)
 
 
-![](images/mcs.png)
 :::
 
 ::: {.column .column-right width="75%"}
-<br>
-
-
-Kevin Carrasco
 
 ------------------------------------------------------------------------
 
+Kevin Carrasco
+
 Sociologist and master in social sciences
 
-Universidad de Chile
+::: {.espaciosimple}
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="72" style="vertical-align: middle;"/>
+<a href="https://github.com/kevin-carrasco" style="text-decoration: non;">kevin-carrasco</a>
 
-
-![](images/chile.png){width=50%}
-
+<img src="https://mfr.osf.io/export?url=https://osf.io/download/ebqta/?direct=%26mode=render&format=2400x2400.jpeg" width="96" style="vertical-align: middle;"/>
+<a href="https://osf.io/n4mtr" style="text-decoration: none;">osf.io/n4mtr</a>
+:::
 
 :::
 :::
 
-## Motivations and main interests
+## This presentation {.black data-background-color="#5f5758"}
+
+::: {.column-right}
+
+1. Motivations and research problems
+
+2. Perceived Redistributive Justice
+
+3. Meritocracy and inequality
+
+4. Data and methods
+
+:::
+
+## Motivations and Research problems
+
+::: columns
+
+::: {.column width="60%"}
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
@@ -64,11 +87,22 @@ Universidad de Chile
 
 - Mass protests and demands for redistribution
 
-- Who deserves what and why?
+- Differences in beliefs about inequality and actual inequality [@kluegel_beliefs_1981; @kluegel_beliefs_1986]
 
-- Deservingness
+- Deservingness [@castillo_multidimensional_2023; @mijs_paradox_2021b]
 
 :::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/chile.png){width=100%}
+
+:::
+
+:::
+
 
 ## Distributive Justice
 
@@ -76,31 +110,58 @@ Universidad de Chile
 
 - Previous research and projects
 
-- Preferences and perceptions
+- Preferences and perceptions about inequality and redistribution [@mccall_undeserving_2013; @kelley_legitimation_1993]
 
-- Public perceptions of distributive justice
-
-:::
-
-## Research question {data-background-color="#5f5758"}
-
-::: {.black .slarge}
-
-How do individual beliefs about inequality shape perceptions of redistributive justice across OECD countries, and to what extent are these perceptions conditioned by country-level characteristics?
+- Distributive justice [@cavaille_fair_2023; @osberg_fair_2006a]
 
 :::
 
-## Meritocracy and social mobility beliefs
+## Redistributive Public Justice
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
-- Meritocracy is fundamental to determining how individuals evaluate justice of social and economic outcomes
+- Theory of inequity [@adams_inequity_1965]
 
-- People who see success as merit-based are more likely to legitimize inequality and oppose redistribution
+- Differences between what I contribute to society and what I receive
 
-- Individuals attributing poverty to lack of effort or ambition tend to support more restrictive welfare policies and perceive benefict recipients as undeserving
+- Is what I receive just according to my contributions?
 
 :::
+
+## Research question {.black data-background-color="#5f5758"}
+
+::: { .slarge}
+
+How do individual beliefs about inequality shape perceptions of redistributive public justice across OECD countries, and to what extent are these perceptions conditioned by country-level characteristics?
+
+:::
+
+## Individual variables
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
+
+- Meritocracy is fundamental to determining how individuals evaluate justice of social and economic outcomes [@sandel_tyranny_2020; @batruch_belief_2023]
+
+- Individuals attributing poverty to lack of effort or ambition tend to support more restrictive welfare policies and perceive benefict recipients as undeserving [@petersen_deservingness_2011; @vanoorschot_making_2006]
+
+- People who perceive more inequality are more likely to perceive that they receive fewer rewards from society [@mijs_paradox_2021b; @easterbrook_social_2021]
+
+
+:::
+
+## Contextual variables
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
+
+- Gini index; PIB per-capita
+
+- Relative poverty
+
+- Country classification (i.e. Conservative, social-democratic, southern...)
+
+
+:::
+
 
 ## Data and methods
 
@@ -110,9 +171,31 @@ How do individual beliefs about inequality shape perceptions of redistributive j
 
 - Conducted in 25 OECD countries (Austria, Belgium, Canada, **Chile**, Denmark, Finalnd, France, Germany, **Ireland**...)
 
-- Central dependent variable: Redistributive justice:
+- Multilevel analysis
+
+- Central dependent variable: Redistributive public justice:
 
 *"I feel that I receive a fair share of public benefits, given the taxes and social contributions I pay and/or have paid in the past"*
 
 ## Thanks for listening to me!
+
+<img src="images/graph.png" width="72" style="vertical-align: middle;"/>
+<a href="https://kevin-carrasco.github.io/phd/TCD/research-presentation/presentation.html#/1" style="text-decoration: non;">https://kevin-carrasco.github.io/phd/TCD/research-presentation/presentation.html#/1</a>
+
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="72" style="vertical-align: middle;"/>
+<a href="https://github.com/kevin-carrasco" style="text-decoration: non;">kevin-carrasco</a>
+
+<img src="https://mfr.osf.io/export?url=https://osf.io/download/ebqta/?direct=%26mode=render&format=2400x2400.jpeg" width="96" style="vertical-align: middle;"/>
+<a href="https://osf.io/n4mtr" style="text-decoration: none;">osf.io/n4mtr</a>
+
+## References
+
+::: {#refs}
+:::
+
+## Appendix
+
+- Hypotheses
+
+![](images/hypotheses.png){width=80%}
 
