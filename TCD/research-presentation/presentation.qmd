@@ -28,7 +28,7 @@ format:
     keep-tex: true  # Debug LaTeX output if needed
 ---
 
-# Perceived Redistributive Justice: The role of Inequality and Social Mobility Beliefs
+# Retributive Public Justice: The role of Inequality and Social Mobility Beliefs
 
 International comparative analysis using *Risk that matter* Survey (2022)
 
@@ -67,11 +67,13 @@ Sociologist and master in social sciences
 
 1. Motivations and research problems
 
-2. Perceived Redistributive Justice
+2. Distributive Justice
 
-3. Meritocracy and inequality
+3. Retributive public justice
 
-4. Data and methods
+4. Meritocracy and inequality
+
+5. Data and methods
 
 :::
 
@@ -116,7 +118,7 @@ Sociologist and master in social sciences
 
 :::
 
-## Redistributive Public Justice
+## Retributive Public Justice
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
@@ -132,7 +134,7 @@ Sociologist and master in social sciences
 
 ::: { .slarge}
 
-How do individual beliefs about inequality shape perceptions of redistributive public justice across OECD countries, and to what extent are these perceptions conditioned by country-level characteristics?
+How do individual beliefs about inequality shape perceptions of retributive public justice across OECD countries, and to what extent are these perceptions conditioned by country-level characteristics?
 
 :::
 
