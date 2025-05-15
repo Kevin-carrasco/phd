@@ -182,7 +182,7 @@ How do individual beliefs about inequality shape perceptions of retributive publ
 
 - Multilevel analysis
 
-- Central dependent variable: Redistributive public justice:
+- Central dependent variable: Retributive public justice:
 
 *"I feel that I receive a fair share of public benefits, given the taxes and social contributions I pay and/or have paid in the past"*
 
