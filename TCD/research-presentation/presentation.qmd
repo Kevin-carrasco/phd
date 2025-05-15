@@ -111,11 +111,11 @@ Sociologist and master in social sciences
 
 - **Carrasco, K**., García-Castro, J. D., Castillo, J. C. (2024). The Socialization of Attitudes Toward Inequality and Meritocracy During School Years in Chile. En G. Assusa, G. Benza (Eds.), América Latina desigual. Preguntas, enfoques y tendencias actuales (Clacso y Siglo ventiuno editores, pp. 205-234).
 
-- Castillo, J. C., Iturra, J., **Carrasco, K**. (Accepted in march 2025). Changes in the justification of educational inequalities: The role of perceptions of inequality and meritocracy during the COVID pandemic. Social Justice Research
-
 - Castillo, J. C., Salgado, M., **Carrasco, K.**, Laffert, A. (2024). The Socialization of Meritocracy and Market Justice Preferences at School. Societies, 14(11), 214. https://doi.org/10.3390/soc14110214
 
 - Castillo, J. C., **Carrasco, K.** (2024). Gender Gaps in the Perception and Justification of Wage Inequality in Chile, 1999–2019. Estudios Públicos, 1-41. https://doi.org/10.38178/07183089/1152230428
+
+- Castillo, J. C., Iturra, J., **Carrasco, K**. (Accepted in march 2025). Changes in the justification of educational inequalities: The role of perceptions of inequality and meritocracy during the COVID pandemic. Social Justice Research
 
 :::
 
@@ -204,7 +204,5 @@ How do individual beliefs about inequality shape perceptions of retributive publ
 
 ## Appendix
 
-- Hypotheses
-
-![](images/hypotheses.png){width=75%}
+![](images/hypotheses.png){width=80%}
 
