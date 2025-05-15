@@ -89,9 +89,9 @@ Sociologist and master in social sciences
 
 - Mass protests and demands for redistribution
 
-- Differences in beliefs about inequality and actual inequality [@kluegel_beliefs_1981; @kluegel_beliefs_1986]
+- Differences in beliefs about inequality and actual inequality [@kluegel_beliefs_1981; @kluegel_beliefs_1986; @liebig_sociology_2016]
 
-- Deservingness [@castillo_multidimensional_2023; @mijs_paradox_2021b]
+- Deservingness [@vanoorschot_who_2000; @castillo_multidimensional_2023; @mijs_paradox_2021b]
 
 :::
 
@@ -105,28 +105,33 @@ Sociologist and master in social sciences
 
 :::
 
-
-## Distributive Justice
+## Research experience in the area
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
-- Previous research and projects
+- **Carrasco, K**., García-Castro, J. D., Castillo, J. C. (2024). The Socialization of Attitudes Toward Inequality and Meritocracy During School Years in Chile. En G. Assusa, G. Benza (Eds.), América Latina desigual. Preguntas, enfoques y tendencias actuales (Clacso y Siglo ventiuno editores, pp. 205-234).
+
+- Castillo, J. C., Iturra, J., **Carrasco, K**. (Accepted in march 2025). Changes in the justification of educational inequalities: The role of perceptions of inequality and meritocracy during the COVID pandemic. Social Justice Research
+
+- Castillo, J. C., Salgado, M., **Carrasco, K.**, Laffert, A. (2024). The Socialization of Meritocracy and Market Justice Preferences at School. Societies, 14(11), 214. https://doi.org/10.3390/soc14110214
+
+- Castillo, J. C., **Carrasco, K.** (2024). Gender Gaps in the Perception and Justification of Wage Inequality in Chile, 1999–2019. Estudios Públicos, 1-41. https://doi.org/10.38178/07183089/1152230428
+
+:::
+
+## This research: Retributive Public Justice
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
 
 - Preferences and perceptions about inequality and redistribution [@mccall_undeserving_2013; @kelley_legitimation_1993]
 
 - Distributive justice [@cavaille_fair_2023; @osberg_fair_2006a]
 
-:::
-
-## Retributive Public Justice
-
-::: {.incremental .highlight-last style="font-size: 100%;"}
-
-- Theory of inequity [@adams_inequity_1965]
+- Theory of equity [@adams_inequity_1965]
 
 - Differences between what I contribute to society and what I receive
 
-- Is what I receive just according to my contributions?
+- Are the public goods I get considered just according to my (perceived) contributions?
 
 :::
 
@@ -134,11 +139,11 @@ Sociologist and master in social sciences
 
 ::: { .slarge}
 
-How do individual beliefs about inequality shape perceptions of retributive public justice across OECD countries, and to what extent are these perceptions conditioned by country-level characteristics?
+How do individual beliefs about inequality shape perceptions of retributive public justice across OECD countries, and to what extent are these perceptions conditioned by individual and country-level characteristics?
 
 :::
 
-## Individual variables
+## Individual factors
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
@@ -151,15 +156,17 @@ How do individual beliefs about inequality shape perceptions of retributive publ
 
 :::
 
-## Contextual variables
+## Contextual factors
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
 
-- Gini index; PIB per-capita
+- Gini index; GDP per-capita
 
 - Relative poverty
 
-- Country classification (i.e. Conservative, social-democratic, southern...)
+- Country welfare-state (i.e. Conservative, social-democratic, southern...)
+
+- Tax revenue (% of GDP);  Progressivity of personal income tax
 
 
 :::
@@ -179,7 +186,7 @@ How do individual beliefs about inequality shape perceptions of retributive publ
 
 *"I feel that I receive a fair share of public benefits, given the taxes and social contributions I pay and/or have paid in the past"*
 
-## Thanks for listening to me!
+## Thanks for your attention!
 
 <img src="images/graph.png" width="72" style="vertical-align: middle;"/>
 <a href="https://kevin-carrasco.github.io/phd/TCD/research-presentation/presentation.html#/1" style="text-decoration: non;">https://kevin-carrasco.github.io/phd/TCD/research-presentation/presentation.html#/1</a>
@@ -199,5 +206,5 @@ How do individual beliefs about inequality shape perceptions of retributive publ
 
 - Hypotheses
 
-![](images/hypotheses.png){width=80%}
+![](images/hypotheses.png){width=75%}
 
